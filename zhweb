@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+\<!DOCTYPE html>
 <!-- saved from url=(0025)https://www.nthykyldss.edu.hk/ -->
 let unlock = false
 <html lang="ja"><script type="text/javascript" async="" charset="utf-8" src="./files/rt.js"></script><script async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="./files/destination"></script><script type="text/javascript" async="" src="./files/destination(1)"></script><script type="text/javascript" async="" src="./files/analytics.js"></script><script type="text/javascript" async="" src="./files/"></script><script type="text/javascript" async="" src="./files/ytag.js"></script><script src="./files/2158789890825108" async=""></script><script src="./files/1672573662928207" async=""></script><script type="text/javascript" async="" src="./files/fbevents.js"></script><script type="text/javascript" async="" src="./files/destination(2)"></script><script async="" src="./files/gtm.js"></script><script id="allow-copy_script">(function agent() {
@@ -102,6 +102,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div id="jre_header_appLink"><a href="https://jreastapp.page.link/?link=https://jreastapp.page.link/jreappstart?app_id%3Djreast_web&amp;isi=820004378&amp;ibi=jp.co.jreast.jreastapp&amp;apn=jp.co.jreast?utm_campaign%3Djreastappstarte%26utm_medium%3Dreferral%26utm_source%3Djreast_web&amp;apn=jp.co.jreast&amp;isi=820004378&amp;ibi=jp.co.jreast.jreastapp&amp;utm_campaign=jreappstrart&amp;utm_medium=referral&amp;utm_source=jreast_web&amp;pt=jreast-app-lp&amp;ct=jreappstart&amp;mt=8" target="_blank" rel="noopener" class="appLinkText">運行情報はアプリが便利</a><button type="button" id="appLink_closeBtn">×</button></div>
 	<div id="jre_header_in_wrap">
 	<h1 class="logo"><a href="https://hikariraypang.github.io/hylykweb/zhweb.html"><img src="./files/logo_jr.svg" alt="JR東日本"></a></h1>
+	<div class="header_navi">
+		<div class="header_navi01">
+			<ul class="navi01_btn">
+				<li id="lang">
+					<button type="button" class="btn"><span>Language</span></button>
+					<ul class="lang_link">
+						<li><a href="https://hikariraypang.github.io/hylykweb/enweb.html" data-jre-ga="header_link">English</a></li>
+						<li><a href="https://hikariraypang.github.io/hylykweb/cnweb.html" data-jre-ga="header_link">簡体中文</a></li>
+					</ul>
+					<button type="button" class="close_btn">∫</button>
+				</li>
+				<li id="search">
+					<button type="button" class="btn"><span>検索</span></button>
+					<div class="searchBox">
+						<form id="srch">
+							<p id="srchForm">
+							<input type="text" name="p" value="" id="srchInput" class="textArea">
+							<button type="button" id="srchBtn" class="searchbtn">検索</button>
+							</p>
+						</form>
+					</div>
+					<button type="button" class="close_btn"></button>
+				</li>
+				<li id="link_jrePoint"><a href="https://www.jrepoint.jp/" target="_blank" rel="noopener" data-jre-ga="header_link">
+				<picture>
+				<source media="(max-width: 750px)" srcset="/material/img/logo_header_jrepoint-sp.png">
+				<img src="./files/logo_jrepoint.svg" alt="JRE POINT（別ウインドウで開きます）">
+				<picture>
+				</picture></picture></a></li>
+				<li id="link_jreMall"><a href="https://www.jreastmall.com/" target="_blank" rel="noopener" data-jre-ga="header_link"><img src="./files/logo_jremall.svg" alt="JRE MALL（別ウインドウで開きます）"></a></li>
+			</ul>
+			<ul class="navi01_link" style="display: block;">
+				<li><a href="https://www.jreast.co.jp/info/" data-jre-ga="header_link">よくいただくお問い合わせ</a></li>
+				<li class="sp"><a href="https://www.jreast.co.jp/press/" data-jre-ga="header_link">ニュースリリース一覧</a></li>
+			</ul>
+			<p class="spBtn"><img src="./files/ico_header_sp_menu.svg" alt="メニュー"></p>
+		</div>
 		<div class="header_navi02">
 		<p class="crossBtn"></p>
 			<ul class="header_navi02_list">
@@ -231,9 +268,119 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<p class="under_returnBtn"></p>
 					<p class="under_crossBtn"></p>
 					</div>
-				
-						
+				<!--//.nav_list--></div>
+				</li>
+				<li id="navi_service">
+				<p class="nav"><a href="https://www.jreast.co.jp/">生活サービス</a></p>
+				<div class="nav_list">
+					<div class="nav_list_inn">
+						<p class="returnBtn"></p>
+						<p class="crossBtn"></p>
 
+						<div class="list01">
+						<p class="nav_list_headhing"><a href="https://www.jreast.co.jp/life/" data-jre-ga="header_megaMenu_link">生活サービストップ</a></p>
+						<ul class="mugaM_life_linkBox_linkList">
+							<li><a href="https://www.jreast.co.jp/life/#ekinaka" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./_files/img_header_life_pic01.jpg" alt=""><p class="linkList_text">エキナカ</p></a>
+							</li>
+							<li><a href="https://www.jreast.co.jp/life/#shopping_eki" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic02.jpg" alt=""><p class="linkList_text">ショッピング<br class="sp">センター</p></a></li>
+							<li><a href="https://www.jreast.co.jp/life/#hotel" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic03.jpg" alt=""><p class="linkList_text">ホテル</p></a></li>
+							<li><a href="https://www.jreast.co.jp/life/#leisure" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic04.jpg" alt=""><p class="linkList_text">スポーツ・<br class="sp">レジャー</p></a></li>
+							<li><a href="https://www.jreast.co.jp/life/#housing" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic05.jpg" alt=""><p class="linkList_text">住宅</p></a></li>
+							<li><a href="https://www.jreast.co.jp/life/#share" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic06.jpg" alt=""><p class="linkList_text">新規事業</p></a></li>
+							<li><a href="https://www.jreast.co.jp/life/#hakobyun" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic07.jpg" alt=""><p class="linkList_text">列車荷物輸送</p></a></li>
+							<li><a href="https://www.jreast.co.jp/life/#kosodate" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic08.jpg" alt=""><p class="linkList_text">子育てサポート</p></a></li>
+							<li><a href="https://www.jreast.co.jp/life/#ensen" class="linkList_a" data-jre-ga="header_megaMenu_link"><img src="./files/img_header_life_pic09.jpg" alt=""><p class="linkList_text">沿線ブランド</p></a></li>
+						</ul>
+
+						</div>
+						<div class="list02">
+						<div id="megaM_life_bnrBox_linkList">
+						
+<!-- 生活サービスタブのバナーを生成（メガメニュー） -->
+<div id="bnr_lifeList">
+<ul class="life_bnrBox_linkList">
+	<li><a href="https://www.jre-hotels.jp/" target="_blank" rel="noopener" data-jre-ga="header_bnr_link"><img src="./files/img_life_jrehotels.jpg" alt="JR-EAST HOTELS（別ウィンドウで開きます）"></a></li>
+	<li><a href="https://www.jreast.co.jp/life_service/cityup/" data-jre-ga="header_bnr_link"><img src="./files/cityup430x430.png" alt="JR東日本が提案する、ワーケーションのカタチ CITY UP"></a></li>
+	<li><a href="https://www.ekipara.com/" target="_blank" rel="noopener" data-jre-ga="header_bnr_link"><img src="./files/img_life_ekipara.jpg" alt="駅のショッピング情報満載！ 駅パラ（別ウィンドウで開きます）"></a></li>
+	<li><a href="https://www.takanawagateway-city.com/" target="_blank" rel="noopener" data-jre-ga="header_bnr_link"><img src="./files/takanawagateway_city.png" alt="TAKANAWA GATEWAY CITY"></a></li>
+</ul>
+</div>
+
+</div>
+						</div>
+					</div>
+					<button class="btn_headerMenuClose" type="button"><img src="./files/ico_header_close.svg" alt=""></button>
+					<div class="sp_crossbtnArea">
+					<p class="under_returnBtn"></p>
+					<p class="under_crossBtn"></p>
+					</div>
+				<!--//.nav_list--></div>
+				</li>
+				<li id="navi_suica">
+				<p class="nav"><a href="https://www.jreast.co.jp/">Suica</a></p>
+				<div class="nav_list">
+					<div class="nav_list_inn">
+						<p class="returnBtn"></p>
+						<p class="crossBtn"></p>
+						<div class="list01">
+						<p class="nav_list_headhing"><span class="notLink">Suica</span></p>
+						<ul class="mugaM_suica_linkBox">
+							<li><a href="https://www.jreast.co.jp/suica/" data-jre-ga="header_megaMenu_link">
+								<h3 class="mugaM_suica_linkBox_tit"><img src="./files/logo_suica.svg" alt="Suica"></h3>
+								<p class="mugaM_suica_icon"><img src="./files/ico_suica.svg" alt=""></p>
+							</a></li>
+							<li><a href="https://www.jreast.co.jp/mobilesuica/" data-jre-ga="header_megaMenu_link">
+								<h3 class="mugaM_suica_linkBox_tit"><img src="./files/logo_suica_mobile.svg" alt="モバイルSuica" id="suica_mobile"></h3>
+								<p class="mugaM_suica_icon"><img src="./files/ico_suica_mobile.svg" alt=""></p>
+							</a></li>
+							<li><a href="https://www.jreast.co.jp/appsuica/" data-jre-ga="header_megaMenu_link">
+								<h3 class="mugaM_suica_linkBox_tit"><img src="./files/logo_suica_app.svg" alt="Apple PayのSuica"></h3>
+								<p class="mugaM_suica_icon"><img src="./files/ico_suica_app.svg" alt=""></p>
+							</a></li>
+							<li><a href="https://www.jreast.co.jp/suicamoney/" data-jre-ga="header_megaMenu_link">
+								<h3 class="mugaM_suica_linkBox_tit">
+								<picture>
+									<source media="(max-width: 750px)" srcset="/material/img/top/logo_suica_money_sp.svg">
+									<img src="./files/logo_suica_money_pc.svg" alt="Suica電子マネー" id="suica_money">
+								</picture>
+								</h3>
+								<p class="mugaM_suica_icon"><img src="./files/ico_suica_money.svg" alt=""></p>
+							</a></li>
+							<li><a href="https://www.jreast.co.jp/touchdego/" data-jre-ga="header_megaMenu_link">
+								<h3 class="mugaM_suica_linkBox_tit">
+								<picture>
+									<source media="(max-width: 750px)" srcset="/material/img/top/logo_suica_shinkansen_sp.svg">
+									<img src="./files/logo_suica_shinkansen_pc.svg" alt="タッチでGo！新幹線" id="suica_shinkansen">
+								</picture>
+								</h3>
+								<p class="mugaM_suica_icon"><img src="./files/ico_suica_shinkansen.svg" alt=""></p>
+							</a></li>
+							<li><a href="https://www.jreast.co.jp/suica/suica_penguin_goods/" data-jre-ga="header_megaMenu_link">
+								<h3 class="mugaM_suica_linkBox_tit">
+								<picture>
+									<source media="(max-width: 750px)" srcset="/material/img/top/logo_suica_goods_sp.svg">
+									<img src="./files/logo_suica_goods_pc.svg" alt="Suicaのペンギングッズ" id="suica_goods">
+								</picture>
+								</h3>
+								<p class="mugaM_suica_icon"><img src="./files/ico_suica_goods.svg" alt=""></p>
+							</a></li>
+						</ul>
+						<div id="mugaM_suica_linkBox">
+							<ul class="mugaM_suica_linkBox_list">
+								<li class="btn02"><a href="https://www.jreast.co.jp/suica/pressrelease/" data-jre-ga="header_megaMenu_link">インフォメーション</a></li>
+								<li class="btn02"><a href="https://www.jreast.co.jp/suica/corporate/" data-jre-ga="header_megaMenu_link">法人のお客さまへ</a></li>
+								<li class="btn02"><a href="https://www.jreast.co.jp/suicaall/rule/" data-jre-ga="header_megaMenu_link">Suicaに関する規約・特約</a></li>
+							</ul>
+							<ul class="mugaM_suica_linkBox_bnrlist">
+								<li><a href="https://www.jrepoint.jp/point/first/" target="_blank" rel="noopener" data-jre-ga="header_megaMenu_link"><img src="./files/bnr_suica_jrepoint.jpg" alt="JRE POINTに登録しよう！ 鉄道で、駅ビル・エキナカで、JRE MALLで、貯まる！使える！ JRE POINT　新しくはじめる方はこちら（別ウインドウで開きます）"></a></li>
+								<li><a href="https://www.jreast.co.jp/mobilesuica/start/" data-jre-ga="header_megaMenu_link"><img src="./files/bnr_suica_start_mobilesuica.jpg" alt="モバイルSuicaをはじめよう！ 安全 カンタン 便利なモバイルSuica 新しくはじめる方はこちら"></a></li>
+								<li><a href="https://www.jreast.co.jp/suica/corporate/suicadata/eki-karte.html" data-jre-ga="header_megaMenu_link"><img src="./files/bnr_suica_eki-karte.jpg" alt="Suicaから、ビジネスのヒントをつかむ。駅カルテ"></a></li>
+							</ul>
+						</div>
+						</div>
+						<div class="list02">
+						<div id="megaM_suica_bnrBox_linkList">
+						
 <!-- Suicaタブのバナーを生成 -->
 <div id="bnr_suicaList">
 <ul class="mugaM_suica_linkBox03_bnrlist">
@@ -387,6 +534,95 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
 
 
+<!--旅行中止慫慂が1件以上ある場合-->
+	
+
+
+
+    </article>
+    
+
+    <main id="contents">
+        <nav id="nav_tabList">
+            <ul id="tabList">
+                <li id="tabList_recommend" class="btn_tabList"><button type="button" role="tab" class="is-active" data-tabnum="0"><span>おすすめ</span></button></li>
+                <li id="tabList_train" class="btn_tabList"><button type="button" role="tab" data-tabnum="1"><span>鉄道</span></button></li>
+                <li id="tabList_travel" class="btn_tabList"><button type="button" role="tab" data-tabnum="2"><span>観光</span></button></li>
+                <li id="tabList_life" class="btn_tabList"><button type="button" role="tab" data-tabnum="3"><span>生活<br class="sp">サービス</span></button></li>
+                <li id="tabList_suica" class="btn_tabList"><button type="button" role="tab" data-tabnum="4"><span>Suica</span></button></li>
+            </ul>
+        </nav>
+    
+    <div id="main_tabContets">
+        <article id="at_recommend" class="bl_tabContents is-show" role="tabpanel">
+	<div class="temp_loading"><img src="./files/loader_logo.svg" alt="JR東日本" class="temp_loading_image"></div>
+            <section id="recommend_container" class="container">
+                <div class="tabContents_mainVisual">
+                    <div class="top_slider">
+                        <div class="swiper-container">
+<ul id="rt_recommend" class="swiper-wrapper"><li id="rt_recommend01" class="swiper-slide"></li>
+<li id="rt_recommend02" class="swiper-slide"></li>
+<li id="rt_recommend03" class="swiper-slide"></li>
+<li id="rt_recommend04" class="swiper-slide"></li>
+   <li class="default_container">
+<div class="def_contents">
+<a data-banner-ga="default" href="https://www.jreast.co.jp/mobilesuica/index.html/" target="_blank">
+<picture>
+	<source media="(max-width: 750px)" srcset="/material/img/top/suica/slbnr_mobilesuica_sp.jpg">
+	<img src="./files/slbnr_mobilesuica_pc.jpg" alt="もっと使えるケータイへ。モバイルSuica">
+</picture>
+<span class="screen-reader-text">別ウィンドウで開きます</span>
+</a>
+</div>
+</li>
+                </ul>
+                            <div class="swiper-pagination"></div>
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-button-next"></div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="top_relationService">
+                    <ul class="relationLink tmp_col04">
+                        <li id="relationLink_ekinet"><a href="https://www.eki-net.com/Personal/Top/Index" data-jre-ga="tab_recommend_link"><img src="./files/logo_ekinet.svg" alt="えきねっと"></a></li>
+                        <li id="relationLink_ot9"><a href="https://www.jreast.co.jp/otona/" data-jre-ga="tab_recommend_link"><img src="./files/logo_ot9.svg" alt="大人の休日倶楽部"></a></li>
+                        <li id="relationLink_stationwork"><a href="https://www.stationwork.jp/" target="_blank" rel="noopener" data-jre-ga="tab_recommend_link"><img src="./files/logo_stationwork.svg" alt="Station Work（別ウインドウで開きます）"></a></li>
+                        <li id="relationLink_jrepoint"><a href="https://www.jrepoint.jp/" target="_blank" rel="noopener" data-jre-ga="tab_recommend_link"><img src="./files/logo_jrepoint.svg" alt="JRE POINT（別ウインドウで開きます）"></a></li>
+                        <li id="relationLink_viewcard"><a href="https://www.jreast.co.jp/card/" target="_blank" rel="noopener" data-jre-ga="tab_recommend_link"><img src="./files/logo_viewcard.svg" alt="VIEW CARD（別ウインドウで開きます）"></a></li>
+                        <li id="relationLink_jremall"><a href="https://www.jreastmall.com/" target="_blank" rel="noopener" data-jre-ga="tab_recommend_link"><img src="./files/logo_jremall.svg" alt="JRE MALL（別ウインドウで開きます）"></a></li>
+                        <li id="relationLink_jrepassport"><a href="https://jre.favy.jp/" target="_blank" rel="noopener" data-jre-ga="tab_recommend_link"><img src="./files/logo_jrepassport.svg" alt="JRE PASSPORT（別ウインドウで開きます）"></a></li>
+                    </ul>
+                </div>
+            </section>
+        </article>
+    
+        <article id="at_train" class="bl_tabContents" role="tabpanel">
+            <div class="temp_loading"><img src="./files/loader_logo.svg" alt="JR東日本" class="temp_loading_image"></div>     
+        </article>
+    
+        <article id="at_travel" class="bl_tabContents" role="tabpanel">
+        <div class="temp_loading"><img src="./files/loader_logo.svg" alt="JR東日本" class="temp_loading_image"></div>
+        <section id="travel_container" class="container">
+	<div class="main_heading02_box">
+		<p class="main_heading02_image"><img src="./files/ico_cont_travel02.svg" alt=""></p>
+		<h2 class="main_heading02_title">エリア・観光</h2>
+		<p class="main_heading02_link"><a href="https://www.jreast.co.jp/travel/" data-jre-ga="tab_travel_link">エリア・観光の詳細を見る</a></p>
+	</div>
+
+	<div class="tabContents_mainVisual">
+		<div class="top_slider">
+			<div class="swiper-container">
+				<ul id="rt_top_travel03" class="swiper-wrapper"><li id="rt_top_travel01" class="swiper-slide"></li>
+<li id="rt_top_travel02" class="swiper-slide"></li><li id="rt_top_travel03_1" class="swiper-slide"></li>
+<li id="rt_top_travel03_2" class="swiper-slide"></li>
+<li class="default_container">
+<div class="def_contents">
+
+<a data-banner-ga="default" href="https://www.jreast.co.jp/funtokyo/" target="_blank">
+<picture><source media="(max-width: 750px)" srcset="/travel/img/travel_area/recommend/tokyo/img_recommend_funtokyo_20201014.jpg"><img src="./files/img_bp_funtokyo_20201014.jpg" alt="各駅からのお出かけ情報をぞくぞく更新 今すぐチェックして まち歩きへ出かけよう 検索より、探索。FUN!TOKYO!"></picture>
+<span class="screen-reader-text">別ウインドウで開きます</span>
+</a>
 
 </div>
 </li>
@@ -401,6 +637,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<div class="top_travel_linkBox">
 		<div class="top_travel_linkBox_inn">
+			<h3 class="heading03">エリア情報</h3>
+			<ul class="top_travel_linkBox_linkList">
+				<li id="link_tohoku"><a href="https://www.jreast.co.jp/travel/tohoku/" data-jre-ga="tab_travel_link">東北・道南<br><span class="fontSmall">エリア</span></a></li>
+				<li id="link_kanto"><a href="https://www.jreast.co.jp/travel/kanto_izu/" data-jre-ga="tab_travel_link">関東・伊豆<br><span class="fontSmall">エリア</span></a></li>
+				<li id="link_shinetsu"><a href="https://www.jreast.co.jp/travel/shinetsu_hokuriku/" data-jre-ga="tab_travel_link">信越・北陸<br><span class="fontSmall">エリア</span></a></li>
 			</ul>
 			<h3 class="heading03">目的から旅を探す</h3>
 			<ul class="bl_purposeNaviList">
@@ -1261,7 +1502,167 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 	<div id="ekinet-area-inner">
 
-	<!-
+	<!--▼ JRきっぷタブ-->
+	<div id="cont_tab1" class="box-tab sp_box on">
+	<form name="searchWindow" id="searchwindowfeatures" action="https://www.eki-net.com/Personal/reserve/wb/SearchWindowFeatures/KeepRouteSearchCondition" method="post" target="_blank">
+		<p class="sp_title">JRきっぷ<span id="cont_tab1_close_btn" class="closeBtn"></span></p>
+		<div class="cont_tab_innner">
+			<div class="box-out not_cp_Banner" id="tbServiceIn">
+				<div class="cont-box">
+					<div class="b-box">
+						<dl>
+							<dt><label for="cont1Line">路線</label></dt>
+							<dd>
+								<div class="selectBox w100p">
+									<select name="cont1Line" id="cont1Line" onchange="SetStationListByCategoryCode();"><option value="1">東北・北海道新幹線</option><option value="2">秋田新幹線</option><option value="3">山形新幹線</option><option value="4">上越新幹線</option><option value="5">北陸新幹線</option><option value="6">あずさ・かいじ</option><option value="7">はちおうじ・おうめ</option><option value="8">富士回遊</option><option value="9">常磐線特急</option><option value="10">踊り子・サフィール踊り子</option><option value="11">湘南</option><option value="12">スワローあかぎ・あかぎ</option><option value="13">草津</option><option value="14">成田エクスプレス</option><option value="15">しおさい</option><option value="16">わかしお</option><option value="17">さざなみ</option><option value="18">つがる</option><option value="19">いなほ</option><option value="20">しらゆき</option><option value="21">日光・鬼怒川方面特急</option></select>
+								</div>
+							</dd>
+						</dl>
+						<dl>
+							<dt><label for="cont1StationS">出発駅</label></dt>
+							<dd>
+								<div class="selectBox w100p">
+									<select name="cont1StationS" id="cont1StationS"><option value="1">東京</option><option value="2">上野</option><option value="3">大宮</option><option value="4">小山</option><option value="5">宇都宮</option><option value="6">那須塩原</option><option value="7">新白河</option><option value="8">郡山（福島県）</option><option value="9">福島（福島県）</option><option value="10">白石蔵王</option><option value="11">仙台</option><option value="12">古川</option><option value="13">くりこま高原</option><option value="14">一ノ関</option><option value="15">水沢江刺</option><option value="16">北上</option><option value="17">新花巻</option><option value="18">盛岡</option><option value="19">いわて沼宮内</option><option value="20">二戸</option><option value="21">八戸</option><option value="22">七戸十和田</option><option value="23">新青森</option><option value="24">奥津軽いまべつ</option><option value="25">木古内</option><option value="26">新函館北斗</option></select>
+									<input id="ridestation" name="ridestation" type="hidden">
+								</div>
+							</dd>
+						</dl>
+						<dl>
+							<dt><label for="cont1StationE">到着駅</label></dt>
+							<dd>
+								<div class="selectBox w100p">
+									<select name="cont1StationE" id="cont1StationE"><option value="1">東京</option><option value="2">上野</option><option value="3">大宮</option><option value="4">小山</option><option value="5">宇都宮</option><option value="6">那須塩原</option><option value="7">新白河</option><option value="8">郡山（福島県）</option><option value="9">福島（福島県）</option><option value="10">白石蔵王</option><option value="11">仙台</option><option value="12">古川</option><option value="13">くりこま高原</option><option value="14">一ノ関</option><option value="15">水沢江刺</option><option value="16">北上</option><option value="17">新花巻</option><option value="18">盛岡</option><option value="19">いわて沼宮内</option><option value="20">二戸</option><option value="21">八戸</option><option value="22">七戸十和田</option><option value="23">新青森</option><option value="24">奥津軽いまべつ</option><option value="25">木古内</option><option value="26">新函館北斗</option></select>
+									<input id="getoffstation" name="getoffstation" type="hidden">
+								</div>
+							</dd>
+						</dl>
+						<div id="dateSelect_departure" class="dateSelect_cont">
+							<dl>
+								<dt><label for="cont1Date_departure">日時</label></dt>								<dd>
+									<div class="selectBox">
+										<select name="cont1Date_departure" id="cont1Date_departure" onchange="SetDayListBySelectedMonth();"><option value="03">03</option><option value="04">04</option><option value="05">05</option></select>
+									</div>
+									<span>月</span>
+									<div class="selectBox select02">
+										<select name="cont1Date_departure_day" id="cont1Date_departure_day"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+									</div>
+									<span>日</span>
+									<input id="boardingDate" name="boardingDate" type="hidden">
+								</dd>
+							</dl>
+							<dl class="dateTime_select">
+								<dd>
+									<div class="selectBox">
+										<select name="hour" id="hour" class="fix-me w55">
+											<option value="00">00</option>
+											<option value="01">01</option>
+											<option value="02">02</option>
+											<option value="03">03</option>
+											<option value="04">04</option>
+											<option value="05">05</option>
+											<option value="06">06</option>
+											<option value="07">07</option>
+											<option value="08">08</option>
+											<option value="09">09</option>
+											<option value="10">10</option>
+											<option value="11">11</option>
+											<option value="12">12</option>
+											<option value="13">13</option>
+											<option value="14">14</option>
+											<option value="15">15</option>
+											<option value="16">16</option>
+											<option value="17">17</option>
+											<option value="18">18</option>
+											<option value="19">19</option>
+											<option value="20">20</option>
+											<option value="21">21</option>
+											<option value="22">22</option>
+											<option value="23">23</option>
+										</select>
+									</div>
+									<span>時</span>
+									<div class="selectBox select02">
+										<select name="minute" id="minute" class="fix-me w55">
+											<option value="00">00</option>
+											<option value="05">05</option>
+											<option value="10">10</option>
+											<option value="15">15</option>
+											<option value="20">20</option>
+											<option value="25">25</option>
+											<option value="30">30</option>
+											<option value="35">35</option>
+											<option value="40">40</option>
+											<option value="45">45</option>
+											<option value="50">50</option>
+											<option value="55">55</option>
+										</select>
+									</div>
+									<span>分</span>
+								</dd>
+							</dl>
+						</div>
+						<ul id="dateSelect_btn">
+							<li id="departure" class="active">出発</li>
+							<li id="arrival">到着</li>
+							<input id="departureArrivalChoice" name="departureArrivalChoice" type="hidden">
+						</ul>
+						<dl class="num_people">
+							<dt>人数</dt>
+							<dd><label id="maxnum">最大6名まで</label></dd>
+						</dl>
+						<div id="jrTicket_number">
+							<dl id="jrTicket_number_adult">
+								<dt><label for="adultnumber">おとな</label></dt>
+								<dd>
+									<div class="selectBox">
+										<select name="adultnumber" id="adultnumber" onchange="CheckMaxNumber();">
+											<option value="0">0名</option>
+											<option value="1" selected="">1名</option>
+											<option value="2">2名</option>
+											<option value="3">3名</option>
+											<option value="4">4名</option>
+											<option value="5">5名</option>
+											<option value="6">6名</option>
+										</select>
+									</div>
+								</dd>
+							</dl>
+							<dl id="jrTicket_number_children">
+								<dt><label for="childnumber">こども</label></dt>
+								<dd>
+									<div class="selectBox">
+										<select name="childnumber" id="childnumber" onchange="CheckMaxNumber();">
+											<option value="0">0名</option>
+											<option value="1">1名</option>
+											<option value="2">2名</option>
+											<option value="3">3名</option>
+											<option value="4">4名</option>
+											<option value="5">5名</option>
+											<option value="6">6名</option>
+										</select>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<p id="jrticket_error_max_people" class="top_tP-error" style="display:none;">1回のお申込み人数は6名までとなります。</p>
+					</div><!-- /.b-box -->
+					<p class="ekinet-area-btn">
+						<button type="button" id="kuuseki-btn">列車を検索する</button>
+					</p>
+				</div><!-- /.cont-box -->
+			</div><!-- #tbServiceIn -->
+			<!-- ▼えきねっとリンク -->
+			<div class="ekinet-area-link">
+				<a href="https://www.eki-net.com/" target="_blank">
+					<img src="./files/logo_ekinet.svg" alt="えきねっとリンク">
+				</a>			</div>
+			<p class="sp_side_for_traininfoLink"></p>
+			<!-- ▲えきねっとリンク -->
+		</div>
+		<!--▲ JRきっぷタブ-->
+	</form>
+	</div><!-- #cont_tab1 -->
+	<!--▲ JRきっぷタブ-->
 
 	<!--▼ JR＋宿泊タブ-->
 	<div id="cont_tab2" class="box-tab sp_box">
@@ -1410,7 +1811,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</ul>
 	<!--//.footer_bottom--></div>
 <!--//#jre_footer_in--></div>
-<p class="copy">Copyright © N.T. Heung Yee Kuk Yuen Long District Secondary School      All Rights Reserved.</p>
+<p class="copy">Copyright © East Japan Railway Company All Rights Reserved.</p>
 </footer>
     <!--//JR東共通フッター-->
     
